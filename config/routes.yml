@@ -1,0 +1,8 @@
+post:
+  path: /
+  controller: Controllers\SoapController::post
+  methods: POST
+test:
+  path: /
+  controller: Controllers\SoapController::get
+  methods: GET
